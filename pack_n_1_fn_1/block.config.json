@@ -1,0 +1,21 @@
+{
+  "blockId": "j3IsgCpS-0pxNL1xMA7vn",
+  "name": "pack_n_1_fn_1",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_pack_n_1_fn_1"
+  },
+  "parentBlockIDs": [
+    "35Sffwvqb_jtY4poArNw2"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js",
+  "variantOfBlockId": "U-dGD3FlSroYNLklAwwxR"
+}

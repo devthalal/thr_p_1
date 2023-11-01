@@ -1,0 +1,21 @@
+{
+  "name": "thr_p_1",
+  "type": "package",
+  "blockId": "35Sffwvqb_jtY4poArNw2",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_thr_p_1"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "pack_n_1_fn_1": {
+      "directory": "pack_n_1_fn_1"
+    }
+  }
+}
